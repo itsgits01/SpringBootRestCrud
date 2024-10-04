@@ -42,8 +42,3 @@ To run this project:
 - Delete a user:
   ```bash
   curl -X DELETE "http://localhost:8080/demo/delete/1"
-
-
-   
-   
-
